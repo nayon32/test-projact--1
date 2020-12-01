@@ -1,0 +1,322 @@
+body{
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+@media(min-width:1200px){
+
+}
+
+
+
+
+@media( min-width:992px) and (max-width:1199px){
+    .our-servic2 p {
+        width: 30%;
+        font-size: 13px;
+  
+    }
+
+    .our-raper i {
+        font-size: 30px;
+        width: 60px;
+        height: 60px;
+    }
+    .our-raper h2 {
+        font-size: 22px;
+    }
+    .our-raper p {
+        font-size: 13px;
+    }
+
+    .portfolio-raper h3 {
+        font-size: 16px;
+    }
+
+
+    .portfolio-raper p {
+        font-size: 12px;
+    }
+}
+
+
+
+@media( min-width:768px) and (max-width:991px){
+    .our-servic2 p {
+        width: 50%;
+        font-size: 12px;
+    }
+    .our-raper i {
+        font-size: 29px;
+        width: 60px;
+        height: 58px;
+        border-radius: 50%;
+    
+    }.our-raper h2 {
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .our-raper p {
+        color: gray;
+        font-size: 12px;
+    }
+
+    .portfolio-raper h3 {
+        font-size: 12px;
+    }
+
+    .portfolio-raper p {
+        font-size: 10px;
+    }
+
+    .fotter-contain p {
+        font-size: 12px;
+    }
+
+    .fotter-sociel-bar ul li a {
+        font-size: 19px;
+        width: 40px;
+        height: 40px;
+    
+    }
+
+
+}
+
+
+
+@media( min-width:576px) and (max-width:767px){
+    .salider-contain h1 {
+     
+        font-size: 52px;
+  
+    }
+    .our-servic2 h3 {
+        font-size: 25px;
+    }
+    .our-servic2 p {
+        width: 88%;
+        font-size: 13px;
+    }
+    .our-raper i {
+        font-size: 22px;
+        width: 45px;
+        height: 45px;
+   
+    }.our-raper h2 {
+        font-size: 19px;
+        margin-top: 10px;
+    }.our-raper p{
+        font-size: 10px;
+    }
+
+
+    .portfolio-raper h3 {
+        font-size: 15px;
+    }
+
+
+    .portfolio-raper p {
+        font-size: 13px;
+    }
+
+
+
+
+    .noyon-card {
+        margin-bottom: 16px;
+    }
+
+    .our-tem {
+        padding: 43px 0;
+    
+    }
+
+    .fotter-sociel-bar {
+        margin-top: 0px;
+    }
+
+    .fotter-contain p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+
+    .fotter-sociel-bar ul li a {
+        font-size: 19px;
+        width: 35px;
+        height: 35px;
+   
+    }
+
+}
+
+
+
+@media( min-width:480px) and (max-width:575px){
+    .salider-contain h2 {
+  
+        font-size: 27px;
+    }
+    .salider-contain h1 {
+   
+        font-size: 31px;
+      background-color: rgba(255, 255, 255, 0.349);
+      color: #444444;
+      padding: 15px;
+      border-radius: 10px 10px 0 0;
+      margin-top: 15px;
+
+}
+.salider-contain button {width: 44%;
+    border-radius: 13px;}
+    .our-servic2 h3 {
+        font-size: 17px;
+    }
+    .our-servic2 p {
+        width: 86%;
+        font-size: 13px;
+    }
+    .our-raper i {
+        font-size: 21px;
+        width: 40px;
+        height: 41px;
+       
+    }
+    .our-raper h2 {
+        font-size: 19px;
+      
+    }
+    .our-raper p {
+        width: 50%;
+        font-size: 10px;
+        margin: auto;}
+
+    .noyon-card {
+        max-width: 100%;
+        margin-bottom: 20px;
+        }
+
+    .portfolio-raper h3 {
+        color: #000;
+        font-size: 14px;
+        }
+        
+    .portfolio-raper p {
+        font-size: 12px;
+        }
+
+   .portfolio-section {
+       padding: 32px 0;
+     
+    }
+
+    .our-tem {
+        padding: 43px 0;
+    }
+
+    
+    .fotter-sociel-bar {
+        margin-top: 0px;
+    }
+
+    .fotter-contain p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+
+    .fotter-sociel-bar ul li a {
+        font-size: 19px;
+        width: 35px;
+        height: 35px;
+   
+    }
+
+
+    
+}
+
+
+@media( max-width:479px){
+    .salider-contain h2 {
+  
+        font-size: 16px;
+    }
+    .salider-contain button {
+        font-size: 16px;
+    }
+    .salider-contain h1 {
+        font-size: 24px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .our-servic2 h3 {
+        font-size: 16px;
+    }
+    .our-servic2 p {
+        width: 90%;
+        font-size: 10px;
+    }
+    .our-raper i {
+        font-size: 17px;
+        width: 30px;
+        height: 30px;
+    }
+    .our-raper h2 {
+        font-size: 15px;
+        margin-top: 6px;
+    }
+    .our-raper p {
+        font-size: 11px;
+        width: 77%;
+        margin: auto;
+    }
+    .our-raper {
+        margin-top: 12px;
+    }
+
+
+    .portfolio-section {
+        padding: 32px 0;
+    }
+
+    .noyon-card {
+        max-width: 100%;
+        margin-bottom: 18px;
+    }
+
+    .portfolio-raper h3 {
+        font-size: 12px;
+    }
+
+    .portfolio-raper p {
+        font-size: 9px;
+    }
+
+    .our-tem {
+        padding: 43px 0;
+    }
+
+    
+    .fotter-sociel-bar {
+        margin-top: 0px;
+    }
+
+    .fotter-contain p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+
+    .fotter-sociel-bar ul li a {
+        font-size: 19px;
+        width: 35px;
+        height: 35px;
+   
+    }
+}
